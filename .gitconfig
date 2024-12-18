@@ -6,3 +6,5 @@
 [user]
 	name = Renata Costa
 	email = renatacostamoreira03@gmail.com
+[core]
+	autocrlf = false

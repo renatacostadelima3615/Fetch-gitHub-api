@@ -89,3 +89,61 @@ clear
 mv .gitignore .gitignore.backup
 rm .gitignore 
 git pull origin main --allow-unrelated-histories
+Merge branch 'main' from remote repository
+git status
+git
+git push origin main
+git init
+.git
+git franch -M main
+git branch -M main
+git remote add origin https://github.com/renatacostadelima3615/Fetch-gitHub-api.git
+git add .
+git commit -m "primeiro commit"
+git push origin main
+clear
+git add Projeto2-Fetch-GitHub-mundo-real
+ls
+git add OneDrive/Renata - Pessoal/CURSO-DEV-QUEST/Projeto2-Fetch-GitHub-mundo-real
+git add OneDrive/CURSO-DEV-QUEST/Projeto2-Fetch-GitHub-mundo-real
+clear
+ls
+cd OneDrive/
+cd CURSO-DEV-QUEST/
+Cd Projeto2-Fetch-GitHub-mundo-real
+cd Projeto2-Fetch-GitHub-mundo-real
+git status
+git commit -m "Adicionando a pasta Projeto2-Fetch-GitHub-mundo-real"
+git push origin main
+git add ./Projeto2-Fetch-GitHub-mundo-real
+clear
+git add OneDrive/CURSO-DEV-QUEST/Projeto2-Fetch-GitHub-mundo-real
+git add -f OneDrive/CURSO-DEV-QUEST/Projeto2-Fetch-GitHub-mundo-real
+pwd
+git add -A
+cd 
+~git add -f ~/OneDrive/CURSO-DEV-QUEST/Projeto2-Fetch-GitHub-mundo-real
+git add -f ~/OneDrive/CURSO-DEV-QUEST/Projeto2-Fetch-GitHub-mundo-real
+git commit -m "Adicionando Projeto2-Fetch-GitHub-mundo-real
+git commit -m "Adicionando Projeto2-Fetch-GitHub-mundo-real"
+
+git commit -m "Adicionando Projeto2-Fetch-GitHub-mundo-real"
+git push origin main
+clear
+git pull origin main --allow-unrelated-histories
+git add .
+echo "OneDrive/.849C9593-D756-4E56-8D6E-42412F2A707B" >>.gitignore
+git rm --cached "OneDrive/.849C9593-D756-4E56-8D6E-42412F2A707B"
+clear
+git status --ignored
+echo "OneDrive/*" >> .gitignore
+git add .gitignore
+clear
+git commit -m "Adiciona ou atualiza o .gitignore"
+git config --global core.autocrlf true
+git config --global core.autocrlf input
+git config --global core.autocrlf false
+.gitignore
+git add .gitignore
+git commit -m "Corrige terminação de linha do .gitignore"
+git commit -a
