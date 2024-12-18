@@ -1,1 +1,29 @@
 AppData/Local/Comms/UnistoreDB/USS.jtx
+# Ignorar diretórios e arquivos do sistema
+AppData/
+NTUSER.DAT*
+ntuser.ini
+Downloads/
+OneDrive/
+Saved Games/
+Searches/
+Contacts/
+Favorites/
+Links/
+Documents/
+Recent/
+Temp/
+*.log
+*.tmp
+
+# Ignorar arquivos temporários e do VSCode
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignorar outros arquivos do sistema operacional
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Dados de Aplicativos/
+Históricos/
